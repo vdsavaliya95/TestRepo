@@ -17,6 +17,7 @@ struct ContentView: View {
             Text("I am 28 years old")
             Text("I like music")
             Text("Just to test")
+            Text("Just to test222")
         }
         .padding()
     }
